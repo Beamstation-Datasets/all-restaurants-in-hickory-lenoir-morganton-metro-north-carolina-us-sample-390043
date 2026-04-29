@@ -1,6 +1,6 @@
 # All Restaurants in Hickory-Lenoir-Morganton (Metro), North Carolina, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `390043` |
 | Location | Hickory-Lenoir-Morganton, NC |
 | Category | Restaurants |
-| Full dataset size | 327 records |
-| Free sample size | 32 records (9.79%) |
-| Last export | 2026-04-21T20:42:00.075905+00:00 |
+| Full dataset size | 377 records |
+| Free sample size | 37 records (9.81%) |
+| Last export | 2026-04-28T22:24:31.409054+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hickory-lenoir-morganton-metro-north-carolina-us-sample-390043/releases/download/sample-latest/beamstation_390043_restaurants-us-hickorylenoirmorgantonnc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
