@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cc25381a-d2a6-402c-8118-b6359b01551a",
+  "export_job_id": "e05c8115-1f05-4fba-9bf1-df89cdad4634",
   "id_short": 390043,
-  "published_at": "2026-04-29T07:11:52Z",
+  "published_at": "2026-05-08T07:05:25Z",
   "repo_name": "all-restaurants-in-hickory-lenoir-morganton-metro-north-carolina-us-sample-390043",
   "sample_asset_name": "beamstation_390043_restaurants-us-hickorylenoirmorgantonnc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/390043/beamstation_390043_restaurants-us-hickorylenoirmorgantonnc_SAMPLE_DIST.csv",
-  "sample_records": 37,
-  "sample_sha256": "7902841a9e6e7f48269707c2180342913fc215cde7325d6bdde920a5a0500375",
-  "sample_size_bytes": 144008,
-  "total_records": 377
+  "sample_records": 43,
+  "sample_sha256": "d7adc956e2298a9baa5d8faf4ae85601da1305190991ba2dbccd78f2b3eccb40",
+  "sample_size_bytes": 172081,
+  "total_records": 435
 }
